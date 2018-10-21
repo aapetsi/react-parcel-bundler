@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel public/index.html",
+    "build": "parcel build public/index.html --out-dir prod",
     "test": "jest"
   },
   "keywords": [],

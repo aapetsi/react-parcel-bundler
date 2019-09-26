@@ -11,6 +11,7 @@ class App extends Component {
         <p>
           <strong>Created by {this.props.name}</strong>
         </p>
+        <p>To begin, edit App.js</p>
       </div>
     );
   }
